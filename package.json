@@ -1,0 +1,19 @@
+{
+  "name": "createtempletedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createDefaultTemplate.js",
+  "bin": {
+    "ctd": "./bin/createDefaultTemplate.js",
+    "cp": "./bin/createPage.js"
+  },
+  "dependencies": {
+    "js-beautify": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
